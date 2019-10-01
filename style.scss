@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    background: rgb(45,78,99);
+    background: radial-gradient(circle, rgba(45,78,99,1) 0%, rgba(1,4,6,1) 90%);
+}
+
+#time {
+    font-size: 6em;
+    color: rgba(195,228,249,1);
+    text-shadow: 0 0 20px rgba(145,178,199,0.7);
+    text-align: center;
+    height: 100vh;
+    line-height: 100vh;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 10px;
+}
